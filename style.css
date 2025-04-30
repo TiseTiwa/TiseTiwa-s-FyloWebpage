@@ -539,6 +539,7 @@ footer {
 .main_footer {
   max-width: 1250px;
   margin: auto;
+  padding: 30px;
 }
 
 .inner_footer {
